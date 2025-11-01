@@ -1,0 +1,13 @@
+[meta]
+c = C-c
+v = C-v
+x = C-x
+
+a = C-a
+z = C-z
+
+r = C-r
+w = C-w
+t = C-t
+l = C-l
+f = C-f
